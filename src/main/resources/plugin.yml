@@ -1,0 +1,9 @@
+name: Testpl
+version: 1.0
+main: com.batta.tachan.testpl.Testpl
+api-version: 1.15
+description: hellocommand
+commands:
+   hello:
+    description: hellocommand
+
